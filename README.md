@@ -1,4 +1,4 @@
-# 도메인 주도 설계 시작을 위한 모델링 과정
+# 도메인 주도 설계 스타터 모델링 과정
 
 이 과정은 조직의 비즈니스 모델을 방향 설정부터 도메인 모델을 코딩하는 것까지 도메인 주도 설계(DDD)의 각 측면을 학습하고 실질적으로 적용하는 단계별 가이드를 제공합니다.
 
@@ -12,7 +12,7 @@
 
 __목차:__
 
-- [도메인 주도 설계 시작을 위한 모델링 과정](#domain-driven-design-starter-modelling-process)
+- [도메인 주도 설계 스타터 모델링 과정](#domain-driven-design-starter-modelling-process)
   - [DDD 시작 모델링 프로세스를 언제 사용하나요?](#when-to-use-the-ddd-starter-modelling-process)
     - [Greenfield Project 시작 시](#kicking-off-a-greenfield-project)
     - [Brownfield Migration 시작 시](#beginning-a-brownfield-migration)
